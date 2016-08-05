@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<body>
+<form action="log.php" method="post">
+<table>
+</table>
+ </form>
+</body>
+
+</html>
